@@ -4,9 +4,9 @@
 
 ### 🚀 AI Prompt Engineer | LLM Integration Specialist | Production AI Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Prompt+Engineering+Expert;LLM+Integration+Specialist;8%2B+Production+AI+Applications;18%2B+Verified+Certifications;5%2B+Years+Technical+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Prompt+Engineering+Expert;LLM+Integration+Specialist;Production+AI+Developer)](https://github.com/Ambuj123-lab)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-kumar-tripathi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambuj123-lab)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj123-lab.github.io/Ambuj_AI_Portfolio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
@@ -23,24 +23,22 @@
 
 > **"From Telecom Infrastructure to AI Innovation - A Self-Taught Journey"**
 
-AI Prompt Engineer with **production experience** at **Hogarth Worldwide (WPP)**, specializing in prompt engineering, LLM integration, and AI workflow automation. Successfully transitioned from telecom infrastructure to AI through intensive self-learning and hands-on project execution.
+AI Prompt Engineer with **production experience** at **Hogarth Worldwide (WPP)**, specializing in prompt engineering, LLM integration, and AI workflow automation. Successfully transitioned from telecommunication to AI.
+
 ```python
 class AmbujTripathi:
     def __init__(self):
         self.role = "AI Prompt Engineer"
         self.location = "Gorakhpur, UP, India"
         self.availability = "Immediate Joining"
-        self.expected_ctc = "6.50-10 LPA"
         self.work_preference = ["Remote", "Hybrid", "Relocate"]
         
     def key_achievements(self):
         return {
             "prompt_optimization": "40% faster iteration at Hogarth WPP",
             "live_projects": "8+ production-ready AI applications",
-            "user_interactions": "10,000+ across all projects",
             "certifications": "18+ verified (NVIDIA, Google, IBM, Azure)",
-            "experience": "5+ years in tech automation & AI",
-            "dsa_mastery": "700+ problems solved"
+            "experience": "5+ years in tech automation & AI"
         }
 ```
 
@@ -51,11 +49,9 @@ class AmbujTripathi:
 | Metric | Achievement |
 |--------|-------------|
 | 🤖 **Live AI Apps** | 8+ Production Ready |
-| 👥 **User Interactions** | 10,000+ |
 | 🏆 **Certifications** | 18+ Verified |
 | ⚡ **Efficiency Gain** | 40% Faster Prompts |
 | 💼 **Experience** | 5+ Years Technical |
-| 🧩 **DSA Problems** | 700+ Solved |
 
 </div>
 
@@ -361,9 +357,7 @@ Certifications:
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambuj123-lab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambuj123-lab&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ambuj123-lab&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
@@ -402,7 +396,6 @@ Open Source:
 Continuous Learning:
   - Qualified: BITSOM x Masai Product Management with GenAI (2025)
   - Self-Learning: Coursera, YouTube, Hugging Face
-  - DSA Mastery: 700+ problems solved
 ```
 
 ---
@@ -425,18 +418,15 @@ current_focus = {
 
 ### 🎯 Seeking: AI Engineer | Prompt Engineer | LLM Integration Engineer | AI/ML Roles
 ```diff
-+ Expected CTC: 6.50-10 LPA
 + Availability: Immediate Joining
 + Work Mode: Remote / Hybrid / Open to Relocation
 + Location: Gorakhpur, UP, India
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-kumar-tripathi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Email](https://img.shields.io/badge/Email-kumarambuj8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj123-lab.github.io/Ambuj_AI_Portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambuj123-lab)
-
-### 📱 Mobile: +91 9431 801363
 
 </div>
 
