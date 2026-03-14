@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-kumar-tripathi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8e24aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj-portfolio-v2.netlify.app)
 [![Docs](https://img.shields.io/badge/Engineering_Docs-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ambuj-rag-docs.netlify.app)
 [![Reddit](https://img.shields.io/badge/Reddit-Top_1%25_r%2FLangChain-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
@@ -248,7 +248,7 @@ production_principles = [
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-kumar-tripathi/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-8e24aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj-portfolio-v2.netlify.app)
 [![Email](https://img.shields.io/badge/kumarambuj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 [![Reddit](https://img.shields.io/badge/u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
