@@ -37,53 +37,36 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 <table>
 <tr>
-<td width="55%">
+<td width="58%">
 
-**Top Posts — Views & Upvotes** 🔥
+**🔥 Top Posts by Engagement**
 
-| Post | Subreddit | Views | ↑ |
-|---|---|:-:|:-:|
-| LangGraph production RAG — Parent-Child retrieval | r/LangChain | **36K** | **99** |
-| Legal AI on 512MB RAM — 51-page field guide | r/LangChain | **16K** | **46** |
-| Production RAG 60-page playbook + Master Reference Guide | r/Rag | **6.8K** | **22** |
-| RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | **13** |
+| Post | Views | ↑ Upvotes |
+|---|:-:|:-:|
+| LangGraph production RAG — Parent-Child retrieval | **36K** | **99** |
+| Legal AI on 512MB RAM — 51-page field guide | **16K** | **46** |
+| Production RAG 60-page playbook + Master Reference | **6.8K** | **22** |
+| RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | **2.5K** | **13** |
 
-**Other Notable Posts** (views only)
-
-| Post | Subreddit | Views |
-|---|---|:-:|
-| AI Backend — LangGraph + FastAPI, Circuit Breakers | r/LLMDevs | 6.9K |
-| LangGraph RAG — feedback on recursive loop control | r/LocalLLaMA | 5.2K |
-| Agentic RAG: Parent-Child Retrieval + Context Bloat | r/Rag | 4.2K |
-| Hiring meta is broken — GenAI Architects vs Legacy Typists | r/LangChain | 2.7K |
-| Multi-tenant Qdrant isolation for production RAG | r/LangChain | 2.3K |
-| Structuring Prompts for LLM-as-a-Judge Evaluator | r/PromptEngineering | 2.2K |
+> All posts on r/LangChain, r/Rag & r/LLMDevs · **87K+ total views** across 14 posts
 
 </td>
-<td width="45%">
+<td width="42%" align="center">
 
 **Reddit Badges Earned**
 
-<p align="center">
-<img src="assets/top_poster.png" width="120"/>
-<img src="assets/picasso.png" width="120"/>
-</p>
+<img src="assets/top_poster.png" width="110"/>　<img src="assets/picasso.png" width="110"/>
 
-🥇 **Top 1% Poster** — r/LangChain
-> Achieved within **1 month** of account creation
-> Posts rank in the **99th percentile** of all-time engagement
+🥇 **Top 1%** on r/LangChain — within **1 month** of joining
+> 99th percentile of all-time community engagement
 
-🎨 **Picasso** — Reddit Creative Achievement
-> Awarded for 100+ upvotes — hand-coded SVG architecture diagrams
-
-📊 **87K+ total views** across 14 posts in 11 AI/ML communities
-> r/LangChain · r/Rag · r/LLMDevs · r/LocalLLaMA · r/PromptEngineering · r/OpenSourceAI · r/AgenticFrontends
+🎨 **Picasso** — 100+ upvotes on hand-coded SVG diagrams
 
 </td>
 </tr>
 </table>
 
-[![View Reddit Profile](https://img.shields.io/badge/Reddit-u%2FLazy--Kangaroo--573-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
+[![View Reddit Profile](https://img.shields.io/badge/Reddit-u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 
 ---
 
