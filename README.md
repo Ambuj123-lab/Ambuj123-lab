@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:900EFF&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Specialist;LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI+%C2%B7+LLMOps;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Specialist;LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI+%C2%B7+LLMOps;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
 <br/>
 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8e24aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj-portfolio-v2.netlify.app)
-[![Docs](https://img.shields.io/badge/Engineering_Docs-20232A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ambuj-rag-docs.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-portfolio-v2.netlify.app)
+[![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=E8B84B)](https://ambuj-rag-docs.netlify.app)
 [![Reddit](https://img.shields.io/badge/Reddit-Top_1%25_r%2FLangChain-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
@@ -89,7 +89,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 💰  Infrastructure  →  ₹0/month on Render free tier · 99%+ uptime
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-000000?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-2C5364?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
 
 ---
 
@@ -106,7 +106,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 💰  Infrastructure  →  ₹0/month on Vercel + Render free tier
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-000000?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-2C5364?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
 
 ---
 
@@ -176,7 +176,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 > Complete technical documentation of both production systems — architecture decisions, failure logs, chunking strategies, OOM prevention, LangGraph state machine deep-dives.
 
-[![Engineering Docs](https://img.shields.io/badge/📖_Full_Docs-ambuj--rag--docs.netlify.app-00C7B7?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
+[![Engineering Docs](https://img.shields.io/badge/📖_Full_Docs-ambuj--rag--docs.netlify.app-E8B84B?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
 
 **Topics covered:** Document Loaders · Parent-Child Chunking · SHA-256 Sync Engine · LangGraph StateGraph · OOM Prevention · Adaptive Retrieval · Deployment Failures & Fixes
 
@@ -224,7 +224,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 | **Microsoft Azure** | Responsible AI · Azure AI Fundamentals |
 | **Forage / Industry** | BCG · AWS · Deloitte · Tata simulations |
 
-[![All Certifications](https://img.shields.io/badge/View_All_Certifications-Portfolio-8e24aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj-portfolio-v2.netlify.app)
+[![All Certifications](https://img.shields.io/badge/View_All_Certifications-Portfolio-E8B84B?style=for-the-badge&logo=google-chrome&logoColor=0F2027)](https://ambuj-portfolio-v2.netlify.app)
 
 ---
 
@@ -248,13 +248,13 @@ Not a tutorial. Not a demo. Deployed and documented.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-8e24aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj-portfolio-v2.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-portfolio-v2.netlify.app)
 [![Email](https://img.shields.io/badge/kumarambuj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 [![Reddit](https://img.shields.io/badge/u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:900EFF,100:00D1FF&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80&section=footer" width="100%"/>
 
 ---
 
