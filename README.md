@@ -148,7 +148,30 @@ Not a tutorial. Not a demo. Deployed and documented.
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 
+---
 
+## 🏗️ System Architecture — Live Production Flow
+ 
+> Hand-coded SVG · Animated flows · Production Data
+ 
+<p align="center">
+  <img src="assets/architecture.svg" width="100%" alt="Production RAG Architecture">
+</p>
+ 
+<details>
+<summary><b>📐 What this diagram shows (Click to expand)</b></summary>
+<br/>
+ 
+| Layer | Components |
+|---|---|
+| **Ingestion** | PDF Loader → 4-Layer OOM Shield → Parent-Child Chunker → Jina AI Embed → SHA-256 Sync → Qdrant Upsert |
+| **Query Entry** | React → FastAPI → Google OAuth → Presidio PII Mask → Redis Cache Check |
+| **LangGraph** | classify_node → 3 runtime paths (RAG / Greeting / Abusive) |
+| **RAG Path** | retrieve_node → Confidence Gate 40% → generate_node → post_process_node |
+| **Persistence** | Qdrant Cloud · MongoDB · Redis/Upstash · Langfuse · Supabase · Circuit Breaker |
+ 
+</details>
+ 
 ---
 
 ## 📚 Engineering Documentation
