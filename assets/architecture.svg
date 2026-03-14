@@ -1,0 +1,273 @@
+<svg viewBox="0 0 960 580" xmlns="http://www.w3.org/2000/svg" width="960" height="580">
+<defs>
+  <style>
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+    @keyframes pulse { 0%,100%{opacity:.35} 50%{opacity:1} }
+    @keyframes glow  { 0%,100%{filter:drop-shadow(0 0 3px #00e5ff)} 50%{filter:drop-shadow(0 0 10px #00e5ff)} }
+    @keyframes glowG { 0%,100%{filter:drop-shadow(0 0 3px #10ffa0)} 50%{filter:drop-shadow(0 0 10px #10ffa0)} }
+    @keyframes glowR { 0%,100%{filter:drop-shadow(0 0 3px #ff4d6a)} 50%{filter:drop-shadow(0 0 10px #ff4d6a)} }
+    @keyframes glowA { 0%,100%{filter:drop-shadow(0 0 3px #fbbf24)} 50%{filter:drop-shadow(0 0 10px #fbbf24)} }
+    @keyframes glowV { 0%,100%{filter:drop-shadow(0 0 3px #a78bfa)} 50%{filter:drop-shadow(0 0 10px #a78bfa)} }
+    @keyframes scanline { 0%{transform:translateY(-580px)} 100%{transform:translateY(580px)} }
+
+    .flow-cy { stroke:#00e5ff; stroke-width:1.5; fill:none; stroke-dasharray:6,4; animation:dash 1.2s linear infinite; }
+    .flow-gr { stroke:#10ffa0; stroke-width:1.5; fill:none; stroke-dasharray:6,4; animation:dash 1.4s linear infinite; }
+    .flow-re { stroke:#ff4d6a; stroke-width:1.5; fill:none; stroke-dasharray:6,4; animation:dash 1.6s linear infinite; }
+    .flow-am { stroke:#fbbf24; stroke-width:1.5; fill:none; stroke-dasharray:6,4; animation:dash 1.3s linear infinite; }
+    .flow-vi { stroke:#a78bfa; stroke-width:1.5; fill:none; stroke-dasharray:6,4; animation:dash 1.5s linear infinite; }
+    .flow-cy2{ stroke:rgba(0,229,255,.3); stroke-width:1; fill:none; stroke-dasharray:4,6; animation:dash 2s linear infinite; }
+
+    .nc { animation:glow  2.5s ease-in-out infinite; }
+    .ng { animation:glowG 2.8s ease-in-out infinite; }
+    .nr { animation:glowR 3.0s ease-in-out infinite; }
+    .na { animation:glowA 2.6s ease-in-out infinite; }
+    .nv { animation:glowV 3.2s ease-in-out infinite; }
+
+    text { font-family:'Courier New',Courier,monospace; }
+    .lm  { font-size:10px; font-weight:bold; fill:#f0f6fc; }
+    .ls  { font-size:8px;  fill:#8b949e; }
+    .lc  { font-size:9px;  fill:#00e5ff; font-weight:bold; }
+    .lg_ { font-size:9px;  fill:#10ffa0; font-weight:bold; }
+    .lr  { font-size:9px;  fill:#ff4d6a; font-weight:bold; }
+    .la  { font-size:9px;  fill:#fbbf24; font-weight:bold; }
+    .lv  { font-size:9px;  fill:#a78bfa; font-weight:bold; }
+    .lx  { font-size:7.5px;fill:#4b5563; }
+  </style>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0L0 0 0 40" fill="none" stroke="rgba(0,229,255,.04)" stroke-width=".5"/>
+  </pattern>
+  <marker id="ac" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#00e5ff"/></marker>
+  <marker id="ag" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#10ffa0"/></marker>
+  <marker id="ar" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#ff4d6a"/></marker>
+  <marker id="aa" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#fbbf24"/></marker>
+  <marker id="av" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6Z" fill="#a78bfa"/></marker>
+</defs>
+
+<!-- BG -->
+<rect width="960" height="580" fill="#0d1117"/>
+<rect width="960" height="580" fill="url(#grid)"/>
+<ellipse cx="480" cy="60"  rx="320" ry="55"  fill="rgba(0,229,255,.025)"/>
+<ellipse cx="180" cy="400" rx="180" ry="110" fill="rgba(16,255,160,.02)"/>
+<ellipse cx="800" cy="380" rx="180" ry="130" fill="rgba(167,139,250,.025)"/>
+
+<!-- HEADER -->
+<rect x="270" y="10" width="420" height="28" rx="14" fill="rgba(0,229,255,.06)" stroke="rgba(0,229,255,.2)" stroke-width="1"/>
+<text x="480" y="29" text-anchor="middle" font-family="Courier New,monospace" font-size="12" font-weight="bold" fill="#f0f6fc">⚡  Indian Legal AI — Production RAG Architecture</text>
+<text x="480" y="50" text-anchor="middle" class="lx">LangGraph · Qdrant · Jina AI · Qwen 3 235B · Redis · MongoDB · Langfuse · Presidio</text>
+
+<!-- author tag -->
+<rect x="784" y="10" width="168" height="20" rx="10" fill="rgba(167,139,250,.08)" stroke="rgba(167,139,250,.2)" stroke-width="1"/>
+<text x="868" y="24" text-anchor="middle" font-family="Courier New,monospace" font-size="7.5" fill="#a78bfa" letter-spacing=".8">✦ Ambuj Kumar Tripathi</text>
+
+<!-- ══════════ LEFT: INGESTION ══════════ -->
+<rect x="16" y="64" width="148" height="448" rx="8" fill="rgba(16,255,160,.025)" stroke="rgba(16,255,160,.12)" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="90" y="80" text-anchor="middle" class="lg_" font-size="7.5" letter-spacing="2">INGESTION PIPELINE</text>
+
+<g class="ng"><rect x="26" y="88" width="128" height="36" rx="5" fill="rgba(16,255,160,.08)" stroke="#10ffa0" stroke-width="1"/>
+<text x="90" y="103" text-anchor="middle" class="lm" font-size="9.5">📄 PDF Loader</text>
+<text x="90" y="116" text-anchor="middle" class="ls">PyMuPDF · 500pg limit</text></g>
+<line x1="90" y1="124" x2="90" y2="140" class="flow-gr" marker-end="url(#ag)"/>
+
+<g class="nr"><rect x="26" y="140" width="128" height="50" rx="5" fill="rgba(255,77,106,.08)" stroke="#ff4d6a" stroke-width="1"/>
+<text x="90" y="156" text-anchor="middle" class="lm" font-size="9.5">🛡️ 4-Layer OOM Shield</text>
+<text x="90" y="169" text-anchor="middle" class="ls">L1 Ext · L2 MagicBytes</text>
+<text x="90" y="181" text-anchor="middle" class="ls">L3 1MB Stream · L4 BombGuard</text></g>
+<line x1="90" y1="190" x2="90" y2="206" class="flow-gr" marker-end="url(#ag)"/>
+
+<g class="ng"><rect x="26" y="206" width="128" height="50" rx="5" fill="rgba(16,255,160,.08)" stroke="#10ffa0" stroke-width="1"/>
+<text x="90" y="222" text-anchor="middle" class="lm" font-size="9.5">✂️ Parent-Child Split</text>
+<text x="90" y="235" text-anchor="middle" class="ls">Child: 400 chars (search)</text>
+<text x="90" y="247" text-anchor="middle" class="ls">Parent: 2000 chars (LLM)</text></g>
+<line x1="90" y1="256" x2="90" y2="272" class="flow-gr" marker-end="url(#ag)"/>
+
+<g class="nc"><rect x="26" y="272" width="128" height="36" rx="5" fill="rgba(0,229,255,.08)" stroke="#00e5ff" stroke-width="1"/>
+<text x="90" y="287" text-anchor="middle" class="lm" font-size="9.5">🧬 Jina AI Embed</text>
+<text x="90" y="300" text-anchor="middle" class="ls">512 dims · MRL trunc.</text></g>
+<line x1="90" y1="308" x2="90" y2="324" class="flow-cy" marker-end="url(#ac)"/>
+
+<g class="na"><rect x="26" y="324" width="128" height="36" rx="5" fill="rgba(251,191,36,.08)" stroke="#fbbf24" stroke-width="1"/>
+<text x="90" y="339" text-anchor="middle" class="lm" font-size="9.5">🔄 SHA-256 Sync</text>
+<text x="90" y="352" text-anchor="middle" class="ls">Idempotent · No ghost vecs</text></g>
+<line x1="90" y1="360" x2="90" y2="376" class="flow-am" marker-end="url(#aa)"/>
+
+<g class="nv"><rect x="26" y="376" width="128" height="36" rx="5" fill="rgba(167,139,250,.08)" stroke="#a78bfa" stroke-width="1"/>
+<text x="90" y="391" text-anchor="middle" class="lm" font-size="9.5">📦 Qdrant Upsert</text>
+<text x="90" y="404" text-anchor="middle" class="ls">10,833 child vectors</text></g>
+
+<rect x="26" y="424" width="128" height="20" rx="4" fill="rgba(16,255,160,.05)" stroke="rgba(16,255,160,.2)" stroke-width="1"/>
+<text x="90" y="438" text-anchor="middle" class="lg_" font-size="7.5">✓ 6 Acts · ₹0/month</text>
+
+<!-- Ingestion dot -->
+<circle r="3.5" fill="#10ffa0" opacity=".9">
+  <animate attributeName="cy" values="88;412" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="cx" values="90;90" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
+</circle>
+
+<!-- ══════════ CENTER: LANGGRAPH ══════════ -->
+<!-- User Query -->
+<g class="nc"><rect x="355" y="64" width="250" height="40" rx="8" fill="rgba(0,229,255,.1)" stroke="#00e5ff" stroke-width="1.5"/>
+<text x="480" y="80" text-anchor="middle" class="lm" font-size="11">👤 User Query</text>
+<text x="480" y="95" text-anchor="middle" class="ls">React Frontend · FastAPI · Google OAuth 2.0</text></g>
+
+<line x1="480" y1="104" x2="480" y2="120" class="flow-cy" marker-end="url(#ac)"/>
+
+<!-- PII tag -->
+<rect x="412" y="108" width="136" height="15" rx="4" fill="rgba(255,77,106,.1)" stroke="rgba(255,77,106,.3)" stroke-width=".8"/>
+<text x="480" y="119" text-anchor="middle" class="lr" font-size="7">🔐 Presidio PII Mask first</text>
+
+<!-- Redis Cache Check -->
+<g class="na"><rect x="375" y="120" width="210" height="36" rx="6" fill="rgba(251,191,36,.08)" stroke="#fbbf24" stroke-width="1"/>
+<text x="480" y="135" text-anchor="middle" class="lm" font-size="10">⚡ Redis Cache Check</text>
+<text x="480" y="149" text-anchor="middle" class="ls">Hit → &lt;5ms return  ·  Miss → continue</text></g>
+
+<line x1="480" y1="156" x2="480" y2="172" class="flow-cy" marker-end="url(#ac)"/>
+
+<!-- CLASSIFY NODE -->
+<g class="nc"><rect x="360" y="172" width="240" height="52" rx="8" fill="rgba(0,229,255,.1)" stroke="#00e5ff" stroke-width="2"/>
+<text x="480" y="191" text-anchor="middle" class="lc" font-size="12.5">classify_node</text>
+<text x="480" y="205" text-anchor="middle" class="ls">is_abusive() · is_greeting()</text>
+<text x="480" y="217" text-anchor="middle" class="ls">Zero API call · Pure Python routing</text></g>
+
+<!-- Branch to GREET -->
+<path d="M378 224 L250 248 L250 268" class="flow-gr" marker-end="url(#ag)"/>
+<text x="298" y="244" text-anchor="middle" class="lg_" font-size="8">GREETING</text>
+
+<!-- Branch to RAG (center) -->
+<line x1="480" y1="224" x2="480" y2="268" class="flow-cy" marker-end="url(#ac)"/>
+<text x="498" y="252" class="lc" font-size="8">RAG</text>
+
+<!-- Branch to REJECT -->
+<path d="M582 224 L710 248 L710 268" class="flow-re" marker-end="url(#ar)"/>
+<text x="662" y="244" text-anchor="middle" class="lr" font-size="8">ABUSIVE</text>
+
+<!-- Main flow dot classify→retrieve -->
+<circle r="3.5" fill="#00e5ff" opacity=".9">
+  <animate attributeName="cy" values="64;224" dur="2s" repeatCount="indefinite" begin=".3s"/>
+  <animate attributeName="cx" values="480;480" dur="2s" repeatCount="indefinite" begin=".3s"/>
+  <animate attributeName="opacity" values="0;1;1;0" dur="2s" repeatCount="indefinite" begin=".3s"/>
+</circle>
+
+<!-- GREET NODE -->
+<g class="ng"><rect x="186" y="268" width="128" height="48" rx="6" fill="rgba(16,255,160,.08)" stroke="#10ffa0" stroke-width="1"/>
+<text x="250" y="285" text-anchor="middle" class="lm" font-size="10">greet_node</text>
+<text x="250" y="298" text-anchor="middle" class="ls">max_tokens=150 · temp=0.7</text>
+<text x="250" y="310" text-anchor="middle" class="ls">Skips Qdrant entirely</text></g>
+<line x1="250" y1="316" x2="250" y2="332" class="flow-gr" marker-end="url(#ag)"/>
+<rect x="186" y="332" width="128" height="20" rx="4" fill="rgba(16,255,160,.05)" stroke="rgba(16,255,160,.2)" stroke-width="1"/>
+<text x="250" y="346" text-anchor="middle" class="lg_" font-size="7.5">→ post_process → END</text>
+
+<!-- REJECT NODE -->
+<g class="nr"><rect x="646" y="268" width="128" height="48" rx="6" fill="rgba(255,77,106,.08)" stroke="#ff4d6a" stroke-width="1"/>
+<text x="710" y="285" text-anchor="middle" class="lm" font-size="10">reject_node</text>
+<text x="710" y="298" text-anchor="middle" class="ls">Hardcoded string</text>
+<text x="710" y="310" text-anchor="middle" class="ls">0 API calls · Not saved</text></g>
+<line x1="710" y1="316" x2="710" y2="332" class="flow-re" marker-end="url(#ar)"/>
+<rect x="646" y="332" width="128" height="20" rx="4" fill="rgba(255,77,106,.05)" stroke="rgba(255,77,106,.2)" stroke-width="1"/>
+<text x="710" y="346" text-anchor="middle" class="lr" font-size="7.5">→ END (clean analytics)</text>
+
+<!-- RETRIEVE NODE -->
+<g class="nc"><rect x="370" y="268" width="220" height="56" rx="6" fill="rgba(0,229,255,.09)" stroke="#00e5ff" stroke-width="1.5"/>
+<text x="480" y="286" text-anchor="middle" class="lc" font-size="11.5">retrieve_node</text>
+<text x="480" y="299" text-anchor="middle" class="ls">Keyword expand (FIR→§173 BNSS)</text>
+<text x="480" y="311" text-anchor="middle" class="ls">Jina embed → Dual Qdrant search</text>
+<text x="480" y="323" text-anchor="middle" class="ls">cosine score → confidence float</text></g>
+
+<line x1="480" y1="324" x2="480" y2="340" class="flow-cy" marker-end="url(#ac)"/>
+
+<!-- RAG flow dot -->
+<circle r="3.5" fill="#00e5ff" opacity=".9">
+  <animate attributeName="cy" values="268;460" dur="2.5s" repeatCount="indefinite" begin=".8s"/>
+  <animate attributeName="cx" values="480;480" dur="2.5s" repeatCount="indefinite" begin=".8s"/>
+  <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" repeatCount="indefinite" begin=".8s"/>
+</circle>
+
+<!-- CONFIDENCE GATE -->
+<g class="na"><rect x="375" y="340" width="210" height="48" rx="6" fill="rgba(251,191,36,.1)" stroke="#fbbf24" stroke-width="1.5"/>
+<text x="480" y="358" text-anchor="middle" class="la" font-size="12">🎯 Confidence Gate</text>
+<text x="480" y="371" text-anchor="middle" class="ls">cosine &lt; 40% → FALLBACK (LLM never called)</text>
+<text x="480" y="383" text-anchor="middle" class="ls">≥ 40% → generate_node ↓</text></g>
+
+<line x1="480" y1="388" x2="480" y2="404" class="flow-am" marker-end="url(#aa)"/>
+
+<!-- GENERATE NODE -->
+<g class="na"><rect x="370" y="404" width="220" height="48" rx="6" fill="rgba(251,191,36,.08)" stroke="#fbbf24" stroke-width="1.5"/>
+<text x="480" y="421" text-anchor="middle" class="la" font-size="11.5">generate_node</text>
+<text x="480" y="434" text-anchor="middle" class="ls">Qwen 3 235B · temp=0.3</text>
+<text x="480" y="447" text-anchor="middle" class="ls">STRICT CONTEXT ONLY system prompt</text></g>
+
+<line x1="480" y1="452" x2="480" y2="468" class="flow-cy" marker-end="url(#ac)"/>
+
+<!-- POST PROCESS -->
+<g class="nv"><rect x="370" y="468" width="220" height="38" rx="6" fill="rgba(167,139,250,.09)" stroke="#a78bfa" stroke-width="1.5"/>
+<text x="480" y="483" text-anchor="middle" class="lv" font-size="11.5">post_process_node</text>
+<text x="480" y="497" text-anchor="middle" class="ls">MongoDB · Redis T1 cache · Langfuse trace</text></g>
+
+<line x1="480" y1="506" x2="480" y2="518" class="flow-vi" marker-end="url(#av)"/>
+<rect x="432" y="518" width="96" height="20" rx="10" fill="rgba(0,229,255,.08)" stroke="rgba(0,229,255,.3)" stroke-width="1"/>
+<text x="480" y="532" text-anchor="middle" class="lc" font-size="9">→ END</text>
+
+<!-- ══════════ RIGHT: STORAGE ══════════ -->
+<rect x="796" y="64" width="148" height="448" rx="8" fill="rgba(167,139,250,.025)" stroke="rgba(167,139,250,.12)" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="870" y="80" text-anchor="middle" class="lv" font-size="7.5" letter-spacing="2">PERSISTENCE LAYER</text>
+
+<g class="nv"><rect x="806" y="88" width="128" height="46" rx="5" fill="rgba(167,139,250,.09)" stroke="#a78bfa" stroke-width="1"/>
+<text x="870" y="105" text-anchor="middle" class="lv" font-size="10">📦 Qdrant Cloud</text>
+<text x="870" y="118" text-anchor="middle" class="ls">10,833 vectors</text>
+<text x="870" y="129" text-anchor="middle" class="ls">512-dim · Free tier</text></g>
+
+<g class="ng"><rect x="806" y="150" width="128" height="46" rx="5" fill="rgba(16,255,160,.08)" stroke="#10ffa0" stroke-width="1"/>
+<text x="870" y="167" text-anchor="middle" class="lg_" font-size="10">🍃 MongoDB</text>
+<text x="870" y="180" text-anchor="middle" class="ls">Chat history</text>
+<text x="870" y="191" text-anchor="middle" class="ls">GDPR 30-day TTL</text></g>
+
+<g class="na"><rect x="806" y="212" width="128" height="56" rx="5" fill="rgba(251,191,36,.08)" stroke="#fbbf24" stroke-width="1"/>
+<text x="870" y="229" text-anchor="middle" class="la" font-size="10">⚡ Redis / Upstash</text>
+<text x="870" y="242" text-anchor="middle" class="ls">T1: Response 1hr TTL</text>
+<text x="870" y="254" text-anchor="middle" class="ls">T2: Active users 15min</text>
+<text x="870" y="264" text-anchor="middle" class="ls">T3: SSE stream state</text></g>
+
+<g class="nc"><rect x="806" y="284" width="128" height="46" rx="5" fill="rgba(0,229,255,.07)" stroke="#00e5ff" stroke-width="1"/>
+<text x="870" y="301" text-anchor="middle" class="lc" font-size="10">📊 Langfuse</text>
+<text x="870" y="314" text-anchor="middle" class="ls">Every query traced</text>
+<text x="870" y="325" text-anchor="middle" class="ls">Tokens · Latency · Score</text></g>
+
+<g class="ng"><rect x="806" y="346" width="128" height="46" rx="5" fill="rgba(16,255,160,.06)" stroke="#10ffa0" stroke-width="1"/>
+<text x="870" y="363" text-anchor="middle" class="lg_" font-size="10">🐘 Supabase</text>
+<text x="870" y="376" text-anchor="middle" class="ls">SHA-256 registry</text>
+<text x="870" y="387" text-anchor="middle" class="ls">Doc version tracking</text></g>
+
+<g class="nr"><rect x="806" y="408" width="128" height="46" rx="5" fill="rgba(255,77,106,.07)" stroke="#ff4d6a" stroke-width="1"/>
+<text x="870" y="425" text-anchor="middle" class="lr" font-size="10">⚡ Circuit Breaker</text>
+<text x="870" y="438" text-anchor="middle" class="ls">fail_max=10 · reset=120s</text>
+<text x="870" y="449" text-anchor="middle" class="ls">SlowAPI: 5 req/min/IP</text></g>
+
+<!-- ══ retrieve → Qdrant ══ -->
+<path d="M590 296 Q710 296 806 112" class="flow-cy2" marker-end="url(#ac)"/>
+<text x="718" y="286" class="lx">vector search</text>
+
+<!-- ══ post_process → storage ══ -->
+<path d="M590 483 Q720 483 806 173" class="flow-vi" marker-end="url(#av)"/>
+<path d="M590 487 Q725 487 806 244" class="flow-am" marker-end="url(#aa)"/>
+<path d="M590 491 Q730 491 806 307" class="flow-cy" marker-end="url(#ac)"/>
+
+<!-- ══ LEGEND ══ -->
+<rect x="796" y="466" width="148" height="82" rx="6" fill="rgba(0,0,0,.35)" stroke="rgba(255,255,255,.06)" stroke-width="1"/>
+<text x="870" y="481" text-anchor="middle" class="lx" font-size="7.5" letter-spacing="1">LEGEND</text>
+<line x1="806" y1="491" x2="826" y2="491" stroke="#00e5ff" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="830" y="495" class="lx">RAG / Query path</text>
+<line x1="806" y1="505" x2="826" y2="505" stroke="#10ffa0" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="830" y="509" class="lx">Greeting path</text>
+<line x1="806" y1="519" x2="826" y2="519" stroke="#ff4d6a" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="830" y="523" class="lx">Reject path</text>
+<line x1="806" y1="533" x2="826" y2="533" stroke="#fbbf24" stroke-width="1.5" stroke-dasharray="4,3"/>
+<text x="830" y="537" class="lx">Confidence / Cache</text>
+
+<!-- BOTTOM STATS -->
+<rect x="16" y="456" width="148" height="56" rx="6" fill="rgba(0,229,255,.03)" stroke="rgba(0,229,255,.1)" stroke-width="1"/>
+<text x="90" y="472" text-anchor="middle" class="lc" font-size="7.5" letter-spacing="1">PRODUCTION STATS</text>
+<text x="90" y="486" text-anchor="middle" class="ls">183ms retrieval · 99%+ uptime</text>
+<text x="90" y="498" text-anchor="middle" class="ls">₹0/month · 512MB RAM</text>
+<text x="90" y="508" text-anchor="middle" class="lx">Render Free Tier · Qdrant Cloud</text>
+
+</svg>
