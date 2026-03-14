@@ -6,13 +6,11 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ambuj123-lab&color=00D1FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Ambuj123-lab)
-<br/>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8e24aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ambuj-portfolio-v2.netlify.app)
-[![Docs](https://img.shields.io/badge/Engineering_Docs-00C7B7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ambuj-rag-docs.netlify.app)
+[![Docs](https://img.shields.io/badge/Engineering_Docs-20232A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ambuj-rag-docs.netlify.app)
 [![Reddit](https://img.shields.io/badge/Reddit-Top_1%25_r%2FLangChain-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
@@ -91,7 +89,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 💰  Infrastructure  →  ₹0/month on Render free tier · 99%+ uptime
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-brightgreen?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-000000?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
 
 ---
 
@@ -108,7 +106,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 💰  Infrastructure  →  ₹0/month on Vercel + Render free tier
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-brightgreen?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-000000?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
 
 ---
 
@@ -149,30 +147,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
 
-## 🔍 How I Actually Work
-
-```python
-# Not a syntax typist. Not a LeetCode grinder.
-# A system architect who uses AI to execute implementation.
-
-my_workflow = {
-    "design":    "Natural language architecture decisions",
-    "execute":   "AI-assisted code generation",
-    "validate":  "Production metrics — latency, uptime, cost",
-    "document":  "Full engineering docs at ambuj-rag-docs.netlify.app",
-}
-
-production_principles = [
-    "Memory-first  : every decision starts with RAM budget",
-    "Gate first     : 40% confidence gate = zero hallucinated citations",
-    "Payload > joins: parent chunk in Qdrant payload = 183ms, not 350ms",
-    "Hash determin. : SHA-256 sync = idempotent, zero ghost vectors",
-    "Fail fast      : circuit breaker = self-healing, zero 3AM restarts",
-    "Mask first     : PII masking before any external API — non-negotiable",
-]
-```
 
 ---
 
