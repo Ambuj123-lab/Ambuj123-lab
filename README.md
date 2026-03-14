@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A4B,50:3A7CA5,100:5AB9E2&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Specialist;LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI+%C2%B7+LLMOps;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
@@ -254,7 +254,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB9E2,50:3A7CA5,100:1B3A4B&height=80&section=footer" width="100%"/>
 
 ---
 
