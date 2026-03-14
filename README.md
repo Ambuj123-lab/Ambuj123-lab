@@ -154,9 +154,7 @@ Not a tutorial. Not a demo. Deployed and documented.
  
 > Hand-coded SVG · Animated flows · Production Data
  
-<p align="center">
-  <img src="assets/architecture.svg" width="100%" alt="Production RAG Architecture">
-</p>
+![Production RAG Architecture](assets/architecture.svg)
  
 <details>
 <summary><b>📐 What this diagram shows (Click to expand)</b></summary>
