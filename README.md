@@ -37,31 +37,47 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-**r/LangChain — Top 1% Poster** 🥇
-> Achieved within **1 month** of account creation
+**Top Posts — Views & Upvotes** 🔥
 
-| Post | Views | ↑ Upvotes |
-|---|:-:|:-:|
-| LangGraph production RAG — Parent-Child retrieval | **36K** | **99** |
-| Legal AI on 512MB RAM — 51-page field guide | **16K** | **46** |
-| Multi-tenant Qdrant isolation | 2.3K | 5 |
-| SHA-256 sync engine for Qdrant | 668 | 1 |
+| Post | Subreddit | Views | ↑ |
+|---|---|:-:|:-:|
+| LangGraph production RAG — Parent-Child retrieval | r/LangChain | **36K** | **99** |
+| Legal AI on 512MB RAM — 51-page field guide | r/LangChain | **16K** | **46** |
+| Production RAG 60-page playbook + Master Reference Guide | r/Rag | **6.8K** | **22** |
+| RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | **13** |
+
+**Other Notable Posts** (views only)
+
+| Post | Subreddit | Views |
+|---|---|:-:|
+| AI Backend — LangGraph + FastAPI, Circuit Breakers | r/LLMDevs | 6.9K |
+| LangGraph RAG — feedback on recursive loop control | r/LocalLLaMA | 5.2K |
+| Agentic RAG: Parent-Child Retrieval + Context Bloat | r/Rag | 4.2K |
+| Hiring meta is broken — GenAI Architects vs Legacy Typists | r/LangChain | 2.7K |
+| Multi-tenant Qdrant isolation for production RAG | r/LangChain | 2.3K |
+| Structuring Prompts for LLM-as-a-Judge Evaluator | r/PromptEngineering | 2.2K |
 
 </td>
-<td width="50%">
+<td width="45%">
 
-**Badges Earned on Reddit**
+**Reddit Badges Earned**
+
+<p align="center">
+<img src="assets/top_poster.png" width="120"/>
+<img src="assets/picasso.png" width="120"/>
+</p>
 
 🥇 **Top 1% Poster** — r/LangChain
-> Posts rank in the **99th percentile** of all-time community engagement
+> Achieved within **1 month** of account creation
+> Posts rank in the **99th percentile** of all-time engagement
 
 🎨 **Picasso** — Reddit Creative Achievement
-> Awarded for hand-coded SVG architecture diagrams shared with the community
+> Awarded for 100+ upvotes — hand-coded SVG architecture diagrams
 
-📊 **~80K+ total impressions** across 11 AI/ML communities
-> r/LangChain · r/Rag · r/LLMDevs · r/LocalLLaMA · r/PromptEngineering
+📊 **87K+ total views** across 14 posts in 11 AI/ML communities
+> r/LangChain · r/Rag · r/LLMDevs · r/LocalLLaMA · r/PromptEngineering · r/OpenSourceAI · r/AgenticFrontends
 
 </td>
 </tr>
