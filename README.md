@@ -89,7 +89,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 💰  Infrastructure  →  ₹0/month on Render free tier · 99%+ uptime
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-2C5364?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-E8B84B?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
 
 ---
 
@@ -106,7 +106,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 💰  Infrastructure  →  ₹0/month on Vercel + Render free tier
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-2C5364?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-E8B84B?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
 
 ---
 
@@ -157,7 +157,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 ![Production RAG Architecture](assets/architecture.svg)
  
 <details>
-<summary><b>📐 What this diagram shows (Click to expand)</b></summary>
+<summary>📐 <b>What this diagram shows</b> — <i>Click to expand ▾</i></summary>
 <br/>
  
 | Layer | Components |
