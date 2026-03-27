@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A4B,50:3A7CA5,100:5AB9E2&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Specialist;LangGraph+%C2%B7+Qdrant+%C2%B7+FastAPI+%C2%B7+LLMOps;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Architect;8-Node+Agentic+RAG+%C2%B7+LangGraph+%C2%B7+Pinecone+%C2%B7+HITL;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Qwen+72B;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;3+Production+Systems+%C2%B7+20%2C000%2B+Vectors+Indexed;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
 <br/>
 
@@ -19,24 +19,22 @@
 ---
 
 ## ⚡ Production at a Glance
-
 <div align="center">
 
-| 🧩 Chunks Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach |
-|:-:|:-:|:-:|:-:|:-:|
-| **20,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~120K+ impressions** |
+| 🧩 Chunks Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach | 🤖 Live Systems |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| **20,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~120K+ impressions** | **3 Production** |
 
 </div>
 
 ```
-Two production AI systems. Zero cloud spend. Real users. Real legal queries.
-Not a tutorial. Not a demo. Deployed and documented.
+Three production AI systems. Zero cloud spend. Real users. Real queries.
+Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 ```
 
 ---
 
 ## 🏅 Community Recognition
-
 <table>
 <tr>
 <td width="58%">
@@ -74,8 +72,28 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 ## 🚀 Production Systems
 
-### ⚖️ Indian Legal AI Expert
+### 💰 Agentic Financial Parser `FLAGSHIP`
+> `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Qwen 72B` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
 
+```
+📚  Knowledge Base   →  Budget 2024-25, Finance Bill, Tax Laws, RBI Guidelines, Constitution
+🧩  Chunking         →  9,000+ vectors · Jina v3 MRL (1024→256d Matryoshka truncation)
+📄  Document Parse   →  LlamaParse VLM — vision-language model for complex tables & layouts
+🧠  Orchestration    →  8-Node LangGraph StateGraph · 4 runtime paths (RAG / Greeting / Vague / Abusive)
+❓  HITL             →  CrossQuestioner node — 2-round clarification for vague queries
+🛡️  LLM-as-Judge    →  Hallucination Guard — separate LLM call verifies grounding before response
+🔒  Security         →  7-Layer Upload Pipeline + PII Shield (Presidio) + Circuit Breakers (pybreaker)
+🔄  Sync Engine      →  SHA-256 idempotent upserts · Zero duplicate vectors · Zero ghost chunks
+💰  Infrastructure   →  ₹0/month on Render free tier · 512MB RAM · Google OAuth
+```
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-agentic--rag--financial--parser.onrender.com-E8B84B?style=for-the-badge)](https://agentic-rag-financial-parser.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser)
+[![Docs](https://img.shields.io/badge/📖_Engineering_Docs-ambuj--rag--docs.netlify.app-2C5364?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
+
+---
+
+### ⚖️ Indian Legal AI Expert
 > `LangGraph` `Qdrant` `FastAPI` `Jina AI` `Qwen 3 235B` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase`
 
 ```
@@ -94,7 +112,6 @@ Not a tutorial. Not a demo. Deployed and documented.
 ---
 
 ### 🛡️ Citizen Safety AI
-
 > `LangGraph` `ChromaDB` `FastAPI` `OpenRouter` `SlowAPI` `React` `Vercel`
 
 ```
@@ -111,7 +128,6 @@ Not a tutorial. Not a demo. Deployed and documented.
 ---
 
 ## 🛠️ Tech Stack
-
 **Orchestration & Backend**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=python&logoColor=white)
@@ -121,6 +137,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 **Vector DB & Storage**
 
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -130,7 +147,8 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Jina AI](https://img.shields.io/badge/Jina_AI-000000?style=for-the-badge&logo=jinaai&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen_3_235B-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white)
+![LlamaParse](https://img.shields.io/badge/LlamaParse_VLM-8A2BE2?style=for-the-badge&logo=meta&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_72B-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **LLMOps & Security**
@@ -151,34 +169,33 @@ Not a tutorial. Not a demo. Deployed and documented.
 ---
 
 ## 🏗️ System Architecture — Live Production Flow
- 
 > Hand-coded SVG · Animated flows · Production Data
- 
+
 ![Production RAG Architecture](assets/architecture.svg)
- 
+
 <details>
 <summary>📐 <b>What this diagram shows</b> — <i>Click to expand ▾</i></summary>
 <br/>
- 
+
 | Layer | Components |
 |---|---|
-| **Ingestion** | PDF Loader → 4-Layer OOM Shield → Parent-Child Chunker → Jina AI Embed → SHA-256 Sync → Qdrant Upsert |
+| **Ingestion** | PDF Loader → LlamaParse VLM → 4-Layer OOM Shield → Parent-Child Chunker → Jina AI Embed → SHA-256 Sync → Pinecone/Qdrant Upsert |
 | **Query Entry** | React → FastAPI → Google OAuth → Presidio PII Mask → Redis Cache Check |
-| **LangGraph** | classify_node → 3 runtime paths (RAG / Greeting / Abusive) |
-| **RAG Path** | retrieve_node → Confidence Gate 40% → generate_node → post_process_node |
-| **Persistence** | Qdrant Cloud · MongoDB · Redis/Upstash · Langfuse · Supabase · Circuit Breaker |
- 
+| **LangGraph** | classify_node → 4 runtime paths (RAG / Greeting / Vague / Abusive) |
+| **RAG Path** | retrieve_node → generate_node → Hallucination Guard → post_process_node |
+| **HITL** | CrossQuestioner node → 2-round clarification for vague queries |
+| **Persistence** | Pinecone · Qdrant · MongoDB · Redis/Upstash · Langfuse · Supabase · Circuit Breaker |
+
 </details>
- 
+
 ---
 
 ## 📚 Engineering Documentation
-
-> Complete technical documentation of both production systems — architecture decisions, failure logs, chunking strategies, OOM prevention, LangGraph state machine deep-dives.
+> Complete technical documentation of all production systems — architecture decisions, failure logs, chunking strategies, OOM prevention, LangGraph state machine deep-dives.
 
 [![Engineering Docs](https://img.shields.io/badge/📖_Full_Docs-ambuj--rag--docs.netlify.app-E8B84B?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
 
-**Topics covered:** Document Loaders · Parent-Child Chunking · SHA-256 Sync Engine · LangGraph StateGraph · OOM Prevention · Adaptive Retrieval · Deployment Failures & Fixes
+**Topics covered:** Document Loaders · LlamaParse VLM · Parent-Child Chunking · SHA-256 Sync Engine · LangGraph StateGraph · HITL CrossQuestioner · Hallucination Guard · OOM Prevention · Adaptive Retrieval · Deployment Failures & Fixes
 
 ---
 
@@ -215,7 +232,6 @@ Not a tutorial. Not a demo. Deployed and documented.
 ---
 
 ## 🏅 Certifications — 18+ Verified
-
 | Provider | Areas |
 |---|---|
 | **NVIDIA** | RAG Agents with LlamaIndex · Building RAG Agents · Jetson Nano AI |
@@ -229,7 +245,6 @@ Not a tutorial. Not a demo. Deployed and documented.
 ---
 
 ## 🎓 Education
-
 | Degree | Institution | Year |
 |---|---|---|
 | PG Diploma — Power Transmission & Distribution | NPTI, Delhi | 2015–16 |
@@ -240,8 +255,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 <div align="center">
 
 ## 📨 Open To
-
-**GenAI Engineer · RAG Systems Specialist · LLMOps · Agentic AI · Prompt Engineer**
+**GenAI Engineer · RAG Systems Architect · LLMOps · Agentic AI · Prompt Engineer**
 
 > 🏠 Remote-first preferred · Open to Hybrid (Lucknow / NCR) · India
 
@@ -258,7 +272,7 @@ Not a tutorial. Not a demo. Deployed and documented.
 
 ---
 
-*Two production systems. Zero budget. Real users. All documented.*
+*Three production systems. Zero budget. Real users. All documented.*
 
 **© 2026 Ambuj Kumar Tripathi — All projects and certifications verifiable**
 
