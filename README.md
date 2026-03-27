@@ -35,39 +35,36 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 ---
 
 ## 🏅 Community Recognition
-<table>
-<tr>
-<td width="58%">
 
-**🔥 Top Posts by Engagement**
+<div align="center">
 
-| Post | Views | ↑ Upvotes |
-|---|:-:|:-:|
-| Agentic Financial Parser — 8-Node RAG playbook 🔥 | **32.2K** | **93% ↑ · 440 shares** |
-| LangGraph production RAG — Parent-Child retrieval | **36K** | **99** |
-| Legal AI on 512MB RAM — 51-page field guide | **16K** | **46** |
-| Production RAG 60-page playbook + Master Reference | **6.8K** | **22** |
-| RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | **2.5K** | **13** |
+**125K+ Views** · **15 Posts** · **Top 1% on r/LangChain** · **99th Percentile All-Time**
 
-> All posts on r/LangChain, r/Rag & r/LLMDevs · **120K+ total views** across 15 posts
+</div>
 
-</td>
-<td width="42%" align="center">
+<br/>
 
-**Reddit Badges Earned**
+| # | Post | Subreddit | Views | Engagement |
+|:-:|---|:-:|:-:|:-:|
+| 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **38K** | 99 ↑ |
+| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **32.2K** | 93% ↑ · 440 shares |
+| 3 | Legal AI on 512MB RAM — 51-page field guide | r/LangChain | **16K** | 46 ↑ |
+| 4 | Production RAG 60-page playbook + Master Reference | r/Rag | **6.8K** | 22 ↑ |
+| 5 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | 13 ↑ |
 
-<img src="assets/top_poster.png" width="110"/>　<img src="assets/picasso.png" width="110"/>
+<br/>
 
-🥇 **Top 1%** on r/LangChain — within **1 month** of joining
-> 99th percentile of all-time community engagement
+<div align="center">
 
-🎨 **Picasso** — 100+ upvotes on hand-coded SVG diagrams
+<img src="assets/top_poster.png" width="100"/>　<img src="assets/picasso.png" width="100"/>
 
-</td>
-</tr>
-</table>
+🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
+　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
+
+</div>
 
 [![View Reddit Profile](https://img.shields.io/badge/Reddit-u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
+
 
 ---
 
