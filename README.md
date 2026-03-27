@@ -43,12 +43,13 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 | Post | Views | ↑ Upvotes |
 |---|:-:|:-:|
+| Agentic Financial Parser — 8-Node RAG playbook 🔥 | **32.2K** | **93% ↑ · 440 shares** |
 | LangGraph production RAG — Parent-Child retrieval | **36K** | **99** |
 | Legal AI on 512MB RAM — 51-page field guide | **16K** | **46** |
 | Production RAG 60-page playbook + Master Reference | **6.8K** | **22** |
 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | **2.5K** | **13** |
 
-> All posts on r/LangChain, r/Rag & r/LLMDevs · **87K+ total views** across 14 posts
+> All posts on r/LangChain, r/Rag & r/LLMDevs · **120K+ total views** across 15 posts
 
 </td>
 <td width="42%" align="center">
