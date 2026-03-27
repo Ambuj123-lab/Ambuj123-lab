@@ -24,7 +24,7 @@
 
 | 🧩 Chunks Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach |
 |:-:|:-:|:-:|:-:|:-:|
-| **10,833** | **₹0 / month** | **183 ms** | **512 MB** | **~80K impressions** |
+| **20,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~120K+ impressions** |
 
 </div>
 
