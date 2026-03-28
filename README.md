@@ -170,9 +170,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 ![Production RAG Architecture](assets/architecture.svg)
 
 <details>
-<summary style="cursor: pointer;">
-  <img src="https://img.shields.io/badge/📐_Architecture_Breakdown-CLICK_TO_EXPAND_▼-1B3A4B?style=for-the-badge&labelColor=E8B84B" alt="Expand Architecture Details" />
-</summary>
+<summary><b><kbd>&nbsp;📐 Architecture Breakdown — Click to expand ▾&nbsp;</kbd></b></summary>
 <br/>
 
 | Layer | Components |
