@@ -6,8 +6,6 @@
 
 <br/>
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-portfolio-v2.netlify.app)
 [![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=E8B84B)](https://ambuj-rag-docs.netlify.app)
@@ -23,7 +21,7 @@
 
 | 🧩 Chunks Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach | 🤖 Live Systems |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **20,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~120K+ impressions** | **3 Production** |
+| **20,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~128K+ impressions** | **3 Production** |
 
 </div>
 
@@ -38,7 +36,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 <div align="center">
 
-**125K+ Views** · **15 Posts** · **Top 1% on r/LangChain** · **99th Percentile All-Time**
+**128K+ Views** · **16 Posts** · **Top 1% on r/LangChain** · **99th Percentile All-Time**
 
 </div>
 
@@ -47,7 +45,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 | # | Post | Subreddit | Views | Engagement |
 |:-:|---|:-:|:-:|:-:|
 | 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **38K** | 99 ↑ |
-| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **32.2K** | 93% ↑ · 440 shares |
+| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **34K** | 93% ↑ · 440 shares |
 | 3 | Legal AI on 512MB RAM — 51-page field guide | r/LangChain | **16K** | 46 ↑ |
 | 4 | Production RAG 60-page playbook + Master Reference | r/Rag | **6.8K** | 22 ↑ |
 | 5 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | 13 ↑ |
@@ -56,7 +54,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 <div align="center">
 
-<img src="assets/top_poster.png" width="100"/>　<img src="assets/picasso.png" width="100"/>
+<a href="https://www.reddit.com/r/LangChain/comments/1s13mdm/i_built_an_8node_agentic_rag_with_langgraph_that/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="assets/top_poster.png" width="100"/></a>　<a href="https://www.reddit.com/r/LangChain/comments/1s13mdm/i_built_an_8node_agentic_rag_with_langgraph_that/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="assets/picasso.png" width="100"/></a>
 
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
@@ -266,7 +264,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB9E2,50:3A7CA5,100:1B3A4B&height=80&section=footer" width="100%"/>
+<a href="https://ambuj-portfolio-v2.netlify.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB9E2,50:3A7CA5,100:1B3A4B&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together%20%E2%86%92&fontSize=24&fontColor=E8B84B&fontAlignY=55&animation=twinkling" width="100%" alt="Portfolio Footer CTA"/></a>
 
 ---
 
