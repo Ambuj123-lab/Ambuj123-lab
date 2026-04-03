@@ -19,9 +19,9 @@
 ## ⚡ Production at a Glance
 <div align="center">
 
-| 🧩 Chunks Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach | 🤖 Live Systems |
+| 🧩 Vectors Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach | 🤖 Live Systems |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **20,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~128K+ impressions** | **3 Production** |
+| **28,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~128K+ impressions** | **3 Production** |
 
 </div>
 
@@ -69,13 +69,13 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 ## 🚀 Production Systems
 
 ### 💰 Agentic Financial Parser `FLAGSHIP`
-> `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Qwen 72B` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
+> `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Cohere Reranker` `OpenRouter LLMs` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
 
 ```
 📚  Knowledge Base   →  Budget 2024-25, Finance Bill, Tax Laws, RBI Guidelines, Constitution
-🧩  Chunking         →  9,000+ vectors · Jina v3 MRL (1024→256d Matryoshka truncation)
+🧩  Vector Scale     →  14,000+ vectors · Jina v3 MRL (1024→256d Matryoshka truncation)
 📄  Document Parse   →  LlamaParse VLM — vision-language model for complex tables & layouts
-🧠  Orchestration    →  8-Node LangGraph StateGraph · 4 runtime paths (RAG / Greeting / Vague / Abusive)
+🧠  Orchestration    →  8-Node LangGraph StateGraph · Parallel Retrieval & Cohere Reranking
 ❓  HITL             →  CrossQuestioner node — 2-round clarification for vague queries
 🛡️  LLM-as-Judge    →  Hallucination Guard — separate LLM call verifies grounding before response
 🔒  Security         →  7-Layer Upload Pipeline + PII Shield (Presidio) + Circuit Breakers (pybreaker)
@@ -143,9 +143,9 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Jina AI](https://img.shields.io/badge/Jina_AI-000000?style=for-the-badge&logo=jinaai&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere_Reranker-39594D?style=for-the-badge&logo=cohere&logoColor=white)
 ![LlamaParse](https://img.shields.io/badge/LlamaParse_VLM-8A2BE2?style=for-the-badge&logo=meta&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen_72B-FF6A00?style=for-the-badge&logo=alibabadotcom&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_70B-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Dynamic_LLMs](https://img.shields.io/badge/Dynamic_Routing-Qwen_/_Llama_/_DeepSeek-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 **LLMOps & Security**
 
