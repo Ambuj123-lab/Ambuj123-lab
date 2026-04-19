@@ -44,9 +44,9 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 | # | Post | Subreddit | Views | Engagement |
 |:-:|---|:-:|:-:|:-:|
-| 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **37K** | 99 ↑ |
-| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **38K** | 93% ↑ · 485 shares |
-| 3 | Legal AI on 512MB RAM — 51-page field guide | r/LangChain | **16K** | 46 ↑ |
+| 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **39K** | 99 ↑ |
+| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **42K** | 93% ↑ · 485 shares |
+| 3 | Legal AI on 512MB RAM — 70-page field guide | r/LangChain | **17K** | 46 ↑ |
 | 4 | Production RAG 60-page playbook + Master Reference | r/Rag | **6.8K** | 22 ↑ |
 | 5 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | 13 ↑ |
 
