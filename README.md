@@ -59,6 +59,8 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
 
+ **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-8-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
+
 </div>
 
 [![View Reddit Profile](https://img.shields.io/badge/Reddit-u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
