@@ -44,9 +44,9 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 | # | Post | Subreddit | Views | Engagement |
 |:-:|---|:-:|:-:|:-:|
-| 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **38K** | 99 ↑ |
-| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **34K** | 93% ↑ · 440 shares |
-| 3 | Legal AI on 512MB RAM — 51-page field guide | r/LangChain | **16K** | 46 ↑ |
+| 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **44K** | 99 ↑ |
+| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **50K+** | 94% ↑ · 529 shares |
+| 3 | Legal AI on 512MB RAM — 70-page field guide | r/LangChain | **17K** | 46 ↑ |
 | 4 | Production RAG 60-page playbook + Master Reference | r/Rag | **6.8K** | 22 ↑ |
 | 5 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | 13 ↑ |
 
@@ -58,6 +58,8 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
+
+ **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-8-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
 
 </div>
 
