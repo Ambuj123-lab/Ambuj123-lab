@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-portfolio-v2.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-ai-portfolio.vercel.app)
 [![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=E8B84B)](https://ambuj-rag-docs.netlify.app)
 [![Reddit](https://img.shields.io/badge/Reddit-Top_1%25_r%2FLangChain-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
@@ -236,7 +236,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 | **Microsoft Azure** | Responsible AI · Azure AI Fundamentals |
 | **Forage / Industry** | BCG · AWS · Deloitte · Tata simulations |
 
-[![All Certifications](https://img.shields.io/badge/View_All_Certifications-Portfolio-E8B84B?style=for-the-badge&logo=google-chrome&logoColor=0F2027)](https://ambuj-portfolio-v2.netlify.app)
+[![All Certifications](https://img.shields.io/badge/View_All_Certifications-Portfolio-E8B84B?style=for-the-badge&logo=google-chrome&logoColor=0F2027)](https://ambuj-ai-portfolio.vercel.app)
 
 ---
 
@@ -258,13 +258,13 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-portfolio-v2.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-ai-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/kumarambuj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 [![Reddit](https://img.shields.io/badge/u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 
 <br/>
 
-<a href="https://ambuj-portfolio-v2.netlify.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB9E2,50:3A7CA5,100:1B3A4B&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together%20%E2%86%92&fontSize=24&fontColor=E8B84B&fontAlignY=55&animation=twinkling" width="100%" alt="Portfolio Footer CTA"/></a>
+<a href="https://ambuj-ai-portfolio.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB9E2,50:3A7CA5,100:1B3A4B&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together%20%E2%86%92&fontSize=24&fontColor=E8B84B&fontAlignY=55&animation=twinkling" width="100%" alt="Portfolio Footer CTA"/></a>
 
 ---
 
