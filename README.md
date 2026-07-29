@@ -73,12 +73,6 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 ### 💰 Agentic Financial Parser `FLAGSHIP`
 > `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Cohere Reranker` `Gemini 3.5 Flash Lite` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
 
-<div align="center">
-<br/>
-<img src="https://raw.githubusercontent.com/Ambuj123-lab/agentic-rag-financial-parser/main/assets/rag_architecture_diagram_dark.png" width="100%" alt="Agentic Financial Parser — 11-Node Architecture"/>
-<br/><br/>
-</div>
-
 ```
 📚  Knowledge Base   →  Budget 2024-25, Finance Bill, Tax Laws, RBI Guidelines, Constitution
 🧩  Vector Scale     →  14,662 vectors · Jina v3 MRL (1024→256d Matryoshka truncation)
