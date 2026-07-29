@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A4B,50:3A7CA5,100:5AB9E2&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+LangGraph+%C2%B7+Pinecone+%C2%B7+HITL;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Qwen+72B;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;3+Production+Systems+%C2%B7+20%2C000%2B+Vectors+Indexed;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+MCP+Tools+%C2%B7+LangGraph;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Gemini+3.5;WhatsApp+AI+Bot+%C2%B7+Daily+AI+Newsletter;3+Production+Systems+%C2%B7+28%2C000%2B+Vectors+Indexed;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
 <br/>
 
@@ -72,6 +72,12 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 ### 💰 Agentic Financial Parser `FLAGSHIP`
 > `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Cohere Reranker` `Gemini 3.5 Flash Lite` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
+
+<div align="center">
+<br/>
+<img src="https://raw.githubusercontent.com/Ambuj123-lab/agentic-rag-financial-parser/main/assets/rag_architecture_animated.gif" width="100%" alt="Agentic Financial Parser — 11-Node Architecture"/>
+<br/><br/>
+</div>
 
 ```
 📚  Knowledge Base   →  Budget 2024-25, Finance Bill, Tax Laws, RBI Guidelines, Constitution
