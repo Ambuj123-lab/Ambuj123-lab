@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A4B,50:3A7CA5,100:5AB9E2&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Architect;8-Node+Agentic+RAG+%C2%B7+LangGraph+%C2%B7+Pinecone+%C2%B7+HITL;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Qwen+72B;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;3+Production+Systems+%C2%B7+20%2C000%2B+Vectors+Indexed;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+LangGraph+%C2%B7+Pinecone+%C2%B7+HITL;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Qwen+72B;Production+AI+on+%E2%82%B90+Budget+%C2%B7+512MB+RAM;3+Production+Systems+%C2%B7+20%2C000%2B+Vectors+Indexed;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
 <br/>
 
@@ -45,7 +45,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 | # | Post | Subreddit | Views | Engagement |
 |:-:|---|:-:|:-:|:-:|
 | 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **44K** | 99 ↑ |
-| 2 | Agentic Financial Parser — 8-Node RAG playbook 🔥 | r/LangChain | **50K+** | 94% ↑ · 529 shares |
+| 2 | Agentic Financial Parser — 11-Node RAG playbook 🔥 | r/LangChain | **50K+** | 94% ↑ · 529 shares |
 | 3 | Legal AI on 512MB RAM — 70-page field guide | r/LangChain | **17K** | 46 ↑ |
 | 4 | Production RAG 60-page playbook + Master Reference | r/Rag | **6.8K** | 22 ↑ |
 | 5 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | 13 ↑ |
@@ -59,7 +59,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
 
- **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-8-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
+ **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
 
 </div>
 
@@ -71,18 +71,18 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 ## 🚀 Production Systems
 
 ### 💰 Agentic Financial Parser `FLAGSHIP`
-> `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Cohere Reranker` `OpenRouter LLMs` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
+> `LangGraph` `Pinecone` `FastAPI` `Jina v3 MRL` `LlamaParse VLM` `Cohere Reranker` `Gemini 3.5 Flash Lite` `MongoDB` `Redis/Upstash` `Langfuse` `Presidio` `Supabase` `pybreaker`
 
 ```
 📚  Knowledge Base   →  Budget 2024-25, Finance Bill, Tax Laws, RBI Guidelines, Constitution
-🧩  Vector Scale     →  14,000+ vectors · Jina v3 MRL (1024→256d Matryoshka truncation)
+🧩  Vector Scale     →  14,662 vectors · Jina v3 MRL (1024→256d Matryoshka truncation)
 📄  Document Parse   →  LlamaParse VLM — vision-language model for complex tables & layouts
-🧠  Orchestration    →  8-Node LangGraph StateGraph · Parallel Retrieval & Cohere Reranking
-❓  HITL             →  CrossQuestioner node — 2-round clarification for vague queries
+🧠  Orchestration    →  11-Node LangGraph StateGraph · Classifier (6-path) · Parallel Retrieval
+❓  Tools & HITL     →  Web Search + Stock Tool (Gemini) · HITL clarification & permission
 🛡️  LLM-as-Judge    →  Hallucination Guard — separate LLM call verifies grounding before response
-🔒  Security         →  7-Layer Upload Pipeline + PII Shield (Presidio) + Circuit Breakers (pybreaker)
+🔒  Security         →  7-Layer Upload Pipeline + PII Shield (regex) + Circuit Breakers (pybreaker)
 🔄  Sync Engine      →  SHA-256 idempotent upserts · Zero duplicate vectors · Zero ghost chunks
-💰  Infrastructure   →  ₹0/month on Render free tier · 512MB RAM · Google OAuth
+💰  Infrastructure   →  ₹0/month on Render free tier · WhatsApp Bot · Daily AI Newsletter
 ```
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-agentic--rag--financial--parser.onrender.com-E8B84B?style=for-the-badge)](https://agentic-rag-financial-parser.onrender.com)
