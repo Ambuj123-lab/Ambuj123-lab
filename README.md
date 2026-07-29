@@ -75,7 +75,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/Ambuj123-lab/agentic-rag-financial-parser/main/assets/rag_architecture_animated.gif" width="100%" alt="Agentic Financial Parser — 11-Node Architecture"/>
+<img src="https://raw.githubusercontent.com/Ambuj123-lab/agentic-rag-financial-parser/main/assets/rag_architecture_diagram_dark.png" width="100%" alt="Agentic Financial Parser — 11-Node Architecture"/>
 <br/><br/>
 </div>
 
