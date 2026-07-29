@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A4B,50:3A7CA5,100:5AB9E2&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=36&fontColor=E8B84B&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090b,100:1e293b&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=42&fontColor=FBBF24&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E8B84B&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+MCP+Tools+%C2%B7+LangGraph;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Gemini+3.5;WhatsApp+AI+Bot+%C2%B7+Daily+AI+Newsletter;3+Production+Systems+%C2%B7+28%2C000%2B+Vectors+Indexed;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+MCP+Tools+%C2%B7+LangGraph;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Gemini+3.5;WhatsApp+AI+Bot+%C2%B7+Daily+AI+Newsletter;3+Production+Systems+%C2%B7+28%2C000%2B+Vectors;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-ai-portfolio.vercel.app)
-[![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=E8B84B)](https://ambuj-rag-docs.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=FBBF24)](https://ambuj-ai-portfolio.vercel.app)
+[![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=FBBF24)](https://ambuj-rag-docs.netlify.app)
 [![Reddit](https://img.shields.io/badge/Reddit-Top_1%25_r%2FLangChain-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
