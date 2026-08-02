@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=FBBF24)](https://ambuj-ai-portfolio.vercel.app)
 [![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=FBBF24)](https://ambuj-rag-docs.netlify.app)
-[![Reddit](https://img.shields.io/badge/Reddit-Top_1%25_r%2FLangChain-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
+[![Reddit Top 1% Poster](https://img.shields.io/badge/Reddit-Top_1%25_Poster-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
+[![Reddit Picasso](https://img.shields.io/badge/Reddit-Picasso_Badge-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/IDT3aLbRhj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
 </div>
@@ -54,7 +55,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 <div align="center">
 
-<a href="https://www.reddit.com/r/LangChain/comments/1s13mdm/i_built_an_8node_agentic_rag_with_langgraph_that/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="assets/top_poster.png" width="100"/></a>　<a href="https://www.reddit.com/r/LangChain/comments/1s13mdm/i_built_an_8node_agentic_rag_with_langgraph_that/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="assets/picasso.png" width="100"/></a>
+<a href="https://www.reddit.com/r/LangChain/s/ab54whlvyF"><img src="assets/top_poster.png" width="100"/></a>　<a href="https://www.reddit.com/r/LangChain/s/IDT3aLbRhj"><img src="assets/picasso.png" width="100"/></a>
 
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
@@ -63,7 +64,8 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 
 </div>
 
-[![View Reddit Profile](https://img.shields.io/badge/Reddit-u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
+[![Reddit 35K+ Viral Post](https://img.shields.io/badge/Viral_Post-35K+_Views-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
+[![Reddit 29K+ Trending Post](https://img.shields.io/badge/Trending-29K+_Views-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/IDT3aLbRhj)
 
 
 ---
@@ -262,7 +264,7 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-ai-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/kumarambuj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
-[![Reddit](https://img.shields.io/badge/u%2FLazy--Kangaroo--573-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lazy-Kangaroo-573/)
+[![Reddit Top 1% Poster](https://img.shields.io/badge/Reddit-Top_1%25_Poster-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
 
 <br/>
 
