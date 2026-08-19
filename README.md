@@ -11,7 +11,7 @@
 [![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=FBBF24)](https://ambuj-rag-docs.netlify.app)
 [![Reddit Top 1% Poster](https://img.shields.io/badge/Reddit-Top_1%25_Poster-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
 [![Reddit Picasso](https://img.shields.io/badge/Reddit-Picasso_Badge-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/IDT3aLbRhj)
-[![UptimeRobot Spotlight](https://img.shields.io/badge/UptimeRobot-Community_Spotlight-047857?style=for-the-badge&logo=uptimerobot&logoColor=3BD671&labelColor=0f172a)](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
+[![Featured by UptimeRobot](https://img.shields.io/badge/FEATURED_BY-UptimeRobot_Official_Blog-047857?style=for-the-badge&logo=uptimerobot&logoColor=3BD671&labelColor=0f172a)](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
 </div>
@@ -61,7 +61,10 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
 
-📰 **Featured on UptimeRobot Blog** — [Community Spotlight: Ambuj Kumar Tripathi](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
+### 🏆 Featured by UptimeRobot (Official Spotlight)
+> **Selected & Interviewed by UptimeRobot** for architecting high-reliability Agentic RAG systems and solving container sleep + database pauses on zero-cost 512MB RAM infrastructure.
+> 
+> 🔗 **Read the full published case study:** [**UptimeRobot Blog — Community Spotlight: Ambuj Kumar Tripathi →**](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
  ✍️ **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
 
 </div>
