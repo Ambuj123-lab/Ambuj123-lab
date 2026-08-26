@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090b,100:1e293b&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=42&fontColor=FBBF24&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+MCP+Tools+%C2%B7+LangGraph;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Gemini+3.5;WhatsApp+AI+Bot+%C2%B7+Daily+AI+Newsletter;3+Production+Systems+%C2%B7+28%2C000%2B+Vectors;Featured+in+UptimeRobot+Community+Spotlight+%F0%9F%8F%86)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=GenAI+Engineer+%26+RAG+Systems+Architect;11-Node+Agentic+RAG+%C2%B7+MCP+Tools+%C2%B7+LangGraph;LlamaParse+VLM+%C2%B7+Jina+v3+MRL+%C2%B7+Gemini+3.5;WhatsApp+AI+Bot+%C2%B7+Daily+AI+Newsletter;3+Production+Systems+%C2%B7+28%2C000%2B+Vectors;Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=FBBF24)](https://ambuj-rag-docs.netlify.app)
 [![Reddit Top 1% Poster](https://img.shields.io/badge/Reddit-Top_1%25_Poster-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
 [![Reddit Picasso](https://img.shields.io/badge/Reddit-Picasso_Badge-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/IDT3aLbRhj)
-[![UptimeRobot Spotlight](https://img.shields.io/badge/UptimeRobot-Featured_Spotlight-dc2626?style=for-the-badge&logo=uptimerobot&logoColor=white)](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
+[![Featured by UptimeRobot](https://img.shields.io/badge/FEATURED_BY-UptimeRobot_Official_Blog-047857?style=for-the-badge&logo=uptimerobot&logoColor=3BD671&labelColor=0f172a)](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
 </div>
@@ -23,7 +23,7 @@
 
 | 🧩 Vectors Indexed | 💰 Monthly Cost | ⚡ Retrieval | 🖥️ RAM Budget | 🌐 Reddit Reach | 🤖 Live Systems |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **32,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~128K+ impressions** | **3 Production** |
+| **28,000+** | **₹0 / month** | **183 ms** | **512 MB** | **~128K+ impressions** | **3 Production** |
 
 </div>
 
@@ -61,7 +61,11 @@ Not a tutorial. Not a demo. Deployed, documented, and battle-tested.
 🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
 　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
 
- **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
+### 🏆 Featured by UptimeRobot (Official Spotlight)
+> **Selected & Interviewed by UptimeRobot** for architecting high-reliability Agentic RAG systems and solving container sleep + database pauses on zero-cost 512MB RAM infrastructure.
+> 
+> 🔗 **Read the full published case study:** [**UptimeRobot Blog — Community Spotlight: Ambuj Kumar Tripathi →**](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
+ ✍️ **Check out my detailed engineering breakdown here**: https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff
 
 </div>
 
