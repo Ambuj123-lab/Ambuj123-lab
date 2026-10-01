@@ -1,22 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090b,100:1e293b&height=120&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=42&fontColor=FBBF24&fontAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,80:1e293b,100:0f172a&height=125&section=header&text=Ambuj%20Kumar%20Tripathi&fontSize=42&fontColor=FFFFFF&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=GenAI+Engineer+%26+RAG+Systems+Architect;CoverCraft+AI+%C2%B7+FastMCP+Claim+Engine+(89%2F100);11-Node+Agentic+RAG+%C2%B7+100%2B+Stars+%C2%B7+LangGraph;UptimeRobot+Spotlight+%C2%B7+M8ven+Verified+Publisher;32%2C000%2B+Vectors+%C2%B7+Fine-Tuned+LLMs+(QLoRA);Top+1%25+Poster+on+r%2FLangChain+%F0%9F%8F%85)](https://github.com/Ambuj123-lab)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=GenAI+Engineer+%26+RAG+Systems+Architect;CoverCraft+AI+%C2%B7+FastMCP+Claim+Engine+(89%2F100);11-Node+Agentic+RAG+%C2%B7+100%2B+Stars+%C2%B7+LangGraph;UptimeRobot+Global+Spotlight+%C2%B7+M8ven+Verified+Publisher;32%2C000%2B+Vectors+%C2%B7+Fine-Tuned+LLMs+(QLoRA);Zero-Cloud-Cost+AI+Infrastructure+%C2%B7+99.98%25+Uptime)](https://github.com/Ambuj123-lab)
 
 <br/>
 
 [![Featured by UptimeRobot](https://img.shields.io/badge/FEATURED_BY-UptimeRobot_Official_Blog-047857?style=for-the-badge&logo=uptimerobot&logoColor=3BD671&labelColor=0f172a)](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
 [![M8ven Verified](https://img.shields.io/badge/M8ven-Verified_MCP_Publisher_(89%2F100)-6366F1?style=for-the-badge&logo=shield&logoColor=white)](https://career-workspace-ambujsystems.vercel.app)
 [![GitHub Stars](https://img.shields.io/badge/GitHub-100+_Stars_&_29+_Forks-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser)
-[![Reddit Top 1% Poster](https://img.shields.io/badge/Reddit-Top_1%25_Poster-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
-[![Reddit Picasso](https://img.shields.io/badge/Reddit-Picasso_Badge-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/IDT3aLbRhj)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
+[![Medium Deep Dive](https://img.shields.io/badge/Medium-Architecture_Publication-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=FBBF24)](https://ambuj-ai-portfolio.vercel.app)
-[![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=FBBF24)](https://ambuj-rag-docs.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://ambuj-ai-portfolio.vercel.app)
+[![Docs](https://img.shields.io/badge/Engineering_Docs-2C5364?style=for-the-badge&logo=readthedocs&logoColor=38BDF8)](https://ambuj-rag-docs.netlify.app)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Ambuj123-lab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
 
@@ -27,9 +26,9 @@
 ## ⚡ Production at a Glance
 <div align="center">
 
-| 🧩 Vectors & Chunks | 💰 Monthly Cost | ⚡ Retrieval | 🛡️ MCP Trust Score | 🌟 Community Reach | 🤖 Live Platforms |
+| 🧩 Vectors & Chunks | 💰 Monthly Cost | ⚡ Retrieval | 🛡️ MCP Trust Score | 🌟 Open Source Reach | 🤖 Live Platforms |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| **32,000+** | **₹0 / month** | **183 ms** | **89/100 (M8ven)** | **100+ Stars · 128K+ Reach** | **4 Live Platforms** |
+| **32,000+** | **₹0 / month** | **183 ms** | **89/100 (M8ven)** | **100+ Stars · 29+ Forks** | **4 Live Platforms** |
 
 </div>
 
@@ -40,49 +39,40 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 
 ---
 
-## 🏅 Community Recognition
+## 🏆 Industry Recognition & Engineering Case Studies
 
 <div align="center">
 
-**128K+ Views** · **16 Posts** · **Top 1% on r/LangChain** · **99th Percentile All-Time**
+**Official Global Spotlight** · **M8ven Verified MCP Publisher** · **100+ GitHub Stars** · **Published Technical Dossiers**
 
 </div>
 
 <br/>
 
-| # | Post | Subreddit | Views | Engagement |
+| # | Technical Case Study / Publication | Platform | Focus Area | Impact & Validation |
 |:-:|---|:-:|:-:|:-:|
-| 1 | LangGraph production RAG — Parent-Child retrieval | r/LangChain | **44K** | 99 ↑ |
-| 2 | Agentic Financial Parser — 11-Node RAG playbook 🔥 | r/LangChain | **50K+** | 94% ↑ · 529 shares |
-| 3 | Legal AI on 512MB RAM — 70-page field guide | r/LangChain | **17K** | 46 ↑ |
-| 4 | Production RAG 60-page playbook + Master Reference | r/Rag | **6.8K** | 22 ↑ |
-| 5 | RAG on 512MB RAM: OOM Kills, Deadlocks & Fixes | r/LLMDevs | **2.5K** | 13 ↑ |
+| 1 | **High-Reliability Agentic RAG on 512MB RAM** | [UptimeRobot Official Spotlight](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/) | Zero-Cost Infrastructure & Container Recovery | **Official Global Feature (99.98% Uptime)** |
+| 2 | **11-Node Production Agentic RAG Playbook** | [Medium Publication](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff) | LlamaParse VLM, Matryoshka MRL & FastMCP | **Published Engineering Breakdown** |
+| 3 | **Autonomous Financial Parser (Show HN)** | [Hacker News / GitHub](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) | Production Multi-Agent Retrieval | **100+ Stars · 29+ Forks** |
+| 4 | **Evidence-Grounded Career Workspace** | [M8ven MCP Trust Index](https://career-workspace-ambujsystems.vercel.app) | JSON-RPC Tool Calling & Schema Security | **89/100 Security & Schema Audit** |
+| 5 | **Production RAG Constitution & Field Guide** | [Engineering Docs](https://ambuj-rag-docs.netlify.app) | 4-Layer OOM Shield, Parent-Child Sync | **Full Technical Dossier** |
 
 <br/>
 
 <div align="center">
-
-<a href="https://www.reddit.com/r/LangChain/s/ab54whlvyF"><img src="assets/top_poster.png" width="100"/></a>　<a href="https://www.reddit.com/r/LangChain/s/IDT3aLbRhj"><img src="assets/picasso.png" width="100"/></a>
-
-🥇 **Top 1% Poster** — r/LangChain · Within 1 month of joining
-　🎨 **Picasso Badge** — 100+ upvotes on hand-coded SVG architecture diagrams
 
 ### 🏆 Featured by UptimeRobot (Official Global Spotlight)
 > **Selected & Interviewed by UptimeRobot** for architecting high-reliability Agentic RAG systems (99.98% uptime) and solving container sleep + database pauses on zero-cost 512MB RAM infrastructure.
 > 
 > 🔗 **Read the full published case study:** [**UptimeRobot Blog — Community Spotlight: Ambuj Kumar Tripathi →**](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
 > 
-> ✍️ **Check out my detailed engineering breakdown here**: [**Medium — Building an 11-Node Production RAG System →**](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff)
+> ✍️ **Check out the detailed engineering breakdown:** [**Medium — Building an 11-Node Production RAG System →**](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff)
 
 ### 🛡️ Verified FastMCP Publisher & Open Source Reach
 > **M8ven MCP Trust Index:** Audited and verified publisher with **89/100 security & schema trust score** on the public MCP registry.
 > **Open-Source Community Reach:** **100+ GitHub Stars and 29+ forks** driven by Show HN community launch for the Agentic RAG platform.
 
 </div>
-
-[![Reddit 35K+ Viral Post](https://img.shields.io/badge/Viral_Post-35K+_Views-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
-[![Reddit 29K+ Trending Post](https://img.shields.io/badge/Trending-29K+_Views-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/IDT3aLbRhj)
-
 
 ---
 
@@ -101,7 +91,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 💰  Infrastructure  →  Live Production on Vercel · Server-Sent Events (SSE) · Zero Cold-Start
 ```
 
-[![Live Workspace](https://img.shields.io/badge/🔗_Live_App-career--workspace--ambujsystems.vercel.app-E8B84B?style=for-the-badge)](https://career-workspace-ambujsystems.vercel.app)
+[![Live Workspace](https://img.shields.io/badge/🔗_Live_App-career--workspace--ambujsystems.vercel.app-0284C7?style=for-the-badge)](https://career-workspace-ambujsystems.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ambuj123-lab/career-workspace-ambujsystems)
 [![Engineering Dossier](https://img.shields.io/badge/📖_Engineering_Dossier-Docs-2C5364?style=for-the-badge)](https://career-workspace-ambujsystems.vercel.app/docs)
 
@@ -122,7 +112,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 💰  Infrastructure   →  ₹0/month on Render free tier · WhatsApp Bot · Daily AI Newsletter
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-agentic--rag--financial--parser.onrender.com-E8B84B?style=for-the-badge)](https://agentic-rag-financial-parser.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-agentic--rag--financial--parser.onrender.com-0284C7?style=for-the-badge)](https://agentic-rag-financial-parser.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser)
 [![Docs](https://img.shields.io/badge/📖_Engineering_Docs-ambuj--rag--docs.netlify.app-2C5364?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
 
@@ -142,7 +132,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 💰  Infrastructure  →  ₹0/month on Render free tier · 99%+ uptime
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-E8B84B?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-indian--legal--ai--expert.onrender.com-0284C7?style=for-the-badge)](https://indian-legal-ai-expert.onrender.com)
 
 ---
 
@@ -158,7 +148,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 💰  Infrastructure  →  ₹0/month on Vercel + Render free tier
 ```
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-E8B84B?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-citizen--safety--ai.vercel.app-0284C7?style=for-the-badge)](https://citizen-safety-ai-assistant.vercel.app)
 
 ---
 
@@ -233,7 +223,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 ## 📚 Engineering Documentation
 > Complete technical documentation of all production systems — architecture decisions, failure logs, chunking strategies, OOM prevention, LangGraph state machine deep-dives.
 
-[![Engineering Docs](https://img.shields.io/badge/📖_Full_Docs-ambuj--rag--docs.netlify.app-E8B84B?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
+[![Engineering Docs](https://img.shields.io/badge/📖_Full_Docs-ambuj--rag--docs.netlify.app-0284C7?style=for-the-badge)](https://ambuj-rag-docs.netlify.app)
 
 **Topics covered:** Document Loaders · LlamaParse VLM · Parent-Child Chunking · SHA-256 Sync Engine · LangGraph StateGraph · HITL CrossQuestioner · Hallucination Guard · OOM Prevention · Adaptive Retrieval · Deployment Failures & Fixes
 
@@ -280,7 +270,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 | **Microsoft Azure** | Responsible AI · Azure AI Fundamentals |
 | **Forage / Industry** | BCG · AWS · Deloitte · Tata simulations |
 
-[![All Certifications](https://img.shields.io/badge/View_All_Certifications-Portfolio-E8B84B?style=for-the-badge&logo=google-chrome&logoColor=0F2027)](https://ambuj-ai-portfolio.vercel.app)
+[![All Certifications](https://img.shields.io/badge/View_All_Certifications-Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=0F2027)](https://ambuj-ai-portfolio.vercel.app)
 
 ---
 
@@ -302,13 +292,12 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuj-tripathi-042b4a118/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=E8B84B)](https://ambuj-ai-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://ambuj-ai-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/kumarambuj8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarambuj8@gmail.com)
-[![Reddit Top 1% Poster](https://img.shields.io/badge/Reddit-Top_1%25_Poster-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/LangChain/s/ab54whlvyF)
 
 <br/>
 
-<a href="https://ambuj-ai-portfolio.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:5AB9E2,50:3A7CA5,100:1B3A4B&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together%20%E2%86%92&fontSize=24&fontColor=E8B84B&fontAlignY=55&animation=twinkling" width="100%" alt="Portfolio Footer CTA"/></a>
+<a href="https://ambuj-ai-portfolio.vercel.app"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,80:1e293b,100:0f172a&height=120&section=footer&text=Let's%20Build%20Something%20Great%20Together%20%E2%86%92&fontSize=24&fontColor=38BDF8&fontAlignY=55&animation=twinkling" width="100%" alt="Portfolio Footer CTA"/></a>
 
 ---
 
