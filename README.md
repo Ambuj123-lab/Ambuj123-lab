@@ -7,6 +7,7 @@
 <br/>
 
 [![Featured by UptimeRobot](https://img.shields.io/badge/FEATURED_BY-UptimeRobot_Official_Blog-047857?style=for-the-badge&logo=uptimerobot&logoColor=3BD671&labelColor=0f172a)](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
+[![Uptime SLA 99.998%](https://badge.uptimerobot.com/sla/18a544b11fc4799a468704cc7acccedb.svg?theme=dark)](https://stats.uptimerobot.com/4tYmSQnuBE?utm_source=status_badge&utm_medium=referral)
 [![M8ven Verified](https://img.shields.io/badge/M8ven-Verified_MCP_Publisher_(89%2F100)-6366F1?style=for-the-badge&logo=shield&logoColor=white)](https://career-workspace-ambujsystems.vercel.app)
 [![GitHub Stars](https://img.shields.io/badge/GitHub-100+_Stars_&_29+_Forks-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ambuj123-lab/agentic-rag-financial-parser)
 [![Medium Deep Dive](https://img.shields.io/badge/Medium-Architecture_Publication-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff)
@@ -51,7 +52,7 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 
 | # | Technical Case Study / Publication | Platform | Focus Area | Impact & Validation |
 |:-:|---|:-:|:-:|:-:|
-| 1 | **High-Reliability Agentic RAG on 512MB RAM** | [UptimeRobot Official Spotlight](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/) | Zero-Cost Infrastructure & Container Recovery | **Official Global Feature (99.98% Uptime)** |
+| 1 | **High-Reliability Agentic RAG on 512MB RAM** | [UptimeRobot Official Spotlight](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/) | Zero-Cost Infrastructure & Container Recovery | **Official Global Feature · 99.998% SLA** |
 | 2 | **11-Node Production Agentic RAG Playbook** | [Medium Publication](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff) | LlamaParse VLM, Matryoshka MRL & FastMCP | **Published Engineering Breakdown** |
 | 3 | **Autonomous Financial Parser (Show HN)** | [Hacker News / GitHub](https://github.com/Ambuj123-lab/agentic-rag-financial-parser) | Production Multi-Agent Retrieval | **100+ Stars · 29+ Forks** |
 | 4 | **Evidence-Grounded Career Workspace** | [M8ven MCP Trust Index](https://career-workspace-ambujsystems.vercel.app) | JSON-RPC Tool Calling & Schema Security | **89/100 Security & Schema Audit** |
@@ -64,6 +65,8 @@ FastMCP tools, Agentic RAG, and fine-tuned LLMs. Deployed, documented, and battl
 ### 🏆 Featured by UptimeRobot (Official Global Spotlight)
 > **Selected & Interviewed by UptimeRobot** for architecting high-reliability Agentic RAG systems (99.98% uptime) and solving container sleep + database pauses on zero-cost 512MB RAM infrastructure.
 > 
+> 
+> [![Uptime SLA 99.998%](https://badge.uptimerobot.com/sla/18a544b11fc4799a468704cc7acccedb.svg?theme=dark)](https://stats.uptimerobot.com/4tYmSQnuBE?utm_source=status_badge&utm_medium=referral)
 > 🔗 **Read the full published case study:** [**UptimeRobot Blog — Community Spotlight: Ambuj Kumar Tripathi →**](https://uptimerobot.com/blog/community-spotlight-ambuj-kumar-tripathi/)
 > 
 > ✍️ **Check out the detailed engineering breakdown:** [**Medium — Building an 11-Node Production RAG System →**](https://medium.com/@ambuj_tripathi/i-built-an-11-node-agentic-rag-system-that-handles-indias-most-complex-government-pdfs-here-s-cd37607b02ff)
